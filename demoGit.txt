@@ -2,3 +2,5 @@ I am learning how branches work, this should only show up on the feature branch
 >>>>>>> feature-name
 I hope this is on the master...
 Yippie, I am making changes on GitHUb
+
+This is a change William made by forking the project
